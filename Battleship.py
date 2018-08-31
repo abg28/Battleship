@@ -4,6 +4,8 @@ from random import randint
 
 #Test comment
 
+# Test comment for branching practice
+
 # FUNCTIONS
 
 # Function that checks to see if you're trying to create a ship in a spot that already contains part of a ship;
